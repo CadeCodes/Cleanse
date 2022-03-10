@@ -2,8 +2,8 @@
 %appdata%/Local/Adobe, you should not have ANY classes here.
 
 **Services made:**
-Critical Microsoft Evaluation Service
-Microsoft Updater Agent
+Critical Microsoft Evaluation Service,
+Microsoft Updater Agent,
 You should not have any services that run JAR files every 5 mintues.
 
 **Infections:**
